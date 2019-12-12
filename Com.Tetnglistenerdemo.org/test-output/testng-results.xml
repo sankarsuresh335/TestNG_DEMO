@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="451" started-at="2019-11-29T03:13:17Z" finished-at="2019-11-29T03:13:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="451" started-at="2019-11-29T03:13:17Z" finished-at="2019-11-29T03:13:18Z">
+      <class name="lisntercom_demo.Ebanbled_Demo">
+        <test-method status="PASS" signature="beforclass()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="beforclass" is-config="true" duration-ms="373" started-at="2019-11-29T03:13:17Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="beforemethod" is-config="true" duration-ms="1" started-at="2019-11-29T03:13:18Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="openfacebook()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="openfacebook" duration-ms="12" started-at="2019-11-29T03:13:18Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfacebook -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="aftermethod" is-config="true" duration-ms="1" started-at="2019-11-29T03:13:18Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="beforemethod" is-config="true" duration-ms="1" started-at="2019-11-29T03:13:18Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="opengoogle()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="opengoogle" duration-ms="4" started-at="2019-11-29T03:13:18Z" depends-on-methods="lisntercom_demo.Ebanbled_Demo.openfacebook" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengoogle -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="aftermethod" is-config="true" duration-ms="1" started-at="2019-11-29T03:13:18Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:lisntercom_demo.Ebanbled_Demo@5e5792a0]" name="afterclass" is-config="true" duration-ms="5" started-at="2019-11-29T03:13:18Z" finished-at="2019-11-29T03:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- lisntercom_demo.Ebanbled_Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

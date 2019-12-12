@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" verbose="5">
+
+<listeners>
+
+<listener class-name="lisntercom_demo.Listeners"/>
+
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="lisntercom_demo.Ebanbled_Demo">
+      <methods>
+      <include name= "opengoogle"/>
+      <include name= "openfacebook"/>
+      </methods>
+      </class>
+      </classes>
+  </test>
+</suite> 
